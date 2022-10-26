@@ -1,0 +1,15 @@
+ESPECIFICACIONES DE DISEÑO:
+
+- Tamaño de Pantalla: 500x750 (anchoXalto)
+
+- Tamaño de imagenes_Idiomas: ???x¿¿¿
+
+- Formato de directorio:
+  Idiomas/ {nombreIdioma} / {nombreModulo} 
+  (datos extra en la foto)
+  
+- Metas para la presentación:
+    Contar con 2 carpetas de idiomas, 2 módulos de ejercicios en cada idioma, 10 ejercicios por módulo
+    
+- Especificaciones por tipo de ejercicio:
+  (Se explica visual en las fotos)
