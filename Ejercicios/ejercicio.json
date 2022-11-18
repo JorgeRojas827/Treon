@@ -1,0 +1,26 @@
+[
+  {
+    "id": "idUno",
+    "opciones": [
+      ["rojo", "red"],
+      ["azul", "blue"],
+      ["verde", "green"],
+      ["naranja", "orange"],
+      ["amarillo", "yellow"]
+    ],
+    "tipos": ["A", "B", "C"],
+    "isFrase": false
+  },
+  {
+    "id": "idDos",
+    "opciones": [
+      ["marron", "brown"],
+      ["negro", "black"],
+      ["morado", "purple"],
+      ["rosado", "pink"],
+      ["blanco", "white"]
+    ],
+    "tipos": ["A", "B", "C"],
+    "isFrase": false
+  }
+]
